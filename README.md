@@ -21,4 +21,39 @@ Initializes a TipBox for the given account to receive tips.
 
 #### Usage:
 ```move
-initialize_tipbox(&signer);
+{
+  "Result": "Added 100000000 Octas to account 0xa7e18a930c13e6abd2d17e07c333ffdb0e0dc96ce682c4be09959807a72633b0"
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+  }
+}
+PS C:\Users\praja\OneDrive\Desktop\Aptos file> aptos account fund-with-faucet
+{
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+  }
+}
+PS C:\Users\praja\OneDrive\Desktop\Aptos file> aptos account fund-with-faucet
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+  }
+}
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+  }
+}
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+  }
+}
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+    "version": 27893343,
+    "vm_status": "Executed successfully"
+    "vm_status": "Executed successfully"
+  }
+  }
+}
+}
